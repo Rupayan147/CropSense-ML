@@ -1,0 +1,26 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# ML Models
+backend/model/*.h5
+backend/model/*.keras
+backend/model/*.pt
+backend/model/*.pth
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Dataset
+dataset/*
+!dataset/dataset_link.txt
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db

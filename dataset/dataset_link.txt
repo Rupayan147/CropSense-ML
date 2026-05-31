@@ -1,0 +1,22 @@
+Project: CropSense ML
+
+Dataset:
+Rice Leaf Disease Images
+
+Source:
+Kaggle
+
+Dataset Search Keyword:
+Rice Leaf Disease Images nirmalsankalana
+
+Classes:
+- Bacterial blight
+- Blast
+- Brown Spot
+- Tungro
+
+Use:
+Rice leaf disease image classification using transfer learning.
+
+Note:
+Dataset files are not uploaded to GitHub. Training is done on Kaggle.
